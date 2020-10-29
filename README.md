@@ -1,5 +1,6 @@
-# Exploitation Handbook
-
+<div align=center>
+    <img width="50%" src="/_images/fulllogo.svg"/>
+</div>
 
 These notes serve as a living document for penetration testing and offensive security. They will serve as a repository of tips, tricks, and one-liners and will be updated as new information is discovered.
 

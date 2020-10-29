@@ -1,6 +1,4 @@
-- General
-    
-    - [Overview](/)
+- [Overview](/)
 
 - Reconnaissance
 
@@ -22,9 +20,9 @@
 
 - Web Exploitation
 
-    - Server Exploitation
+    - Server Vulnerabilities
 
-    - Code Exploitation
+    - Code Vulnerabilities
         - [Command Injection](/web/code/command-injection.md)
         - [CSRF](/web/code/csrf.md)
         - [LFI/RFI](/web/code/lfi-rfi.md)
@@ -32,5 +30,5 @@
         - [SQL Injection](/web/code/sqli.md)
         - [XSS](/web/code/xss.md)
 
-    - External Service Exploitation
+    - External Service Vulnerabilities
 
