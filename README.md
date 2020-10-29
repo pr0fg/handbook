@@ -5,4 +5,4 @@ These notes serve as a living document for penetration testing and offensive sec
 
 If you find this useful, please give it a star ⭐ to show your support.
 
-> Feel free to contact us on Github: [@pr0fg](https://github.com/pr0fg) & [@harrington]()
+> Feel free to fork, contribute, or contact us on Github: [@pr0fg](https://github.com/pr0fg) & [@nodeslave](ttps://github.com/nodeslave)
